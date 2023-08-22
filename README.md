@@ -1,16 +1,16 @@
-### Olá, tudo joia? Eu sou o Gabriel Macena.
+### Olá, seja bem-vindo! Eu sou o Gabriel Macena.
 
 
 
-- 💻 Hoje trabalho com Front-end.
-- 📚 Estou estudando/aperfeiçoando meu JS e React JS.
+- 💻 Hoje trabalho com Back-end.
+
  
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="Gabs-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
 </div>
   
 ##
