@@ -2,7 +2,7 @@
 
 
 
-- 💻 Hoje trabalho com Back-end.
+- 💻 Me aperfeiçoando para ser um Dev Back-end.
 
  
   <div style="display: inline_block"><br>
