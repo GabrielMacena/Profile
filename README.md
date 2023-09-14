@@ -2,7 +2,7 @@
 
 
 
-- 💻 Me aperfeiçoando para ser um Dev Back-end.
+- 💻 Me aperfeiçoando para ser um Dev Back-end Java.
 
  
   <div style="display: inline_block"><br>
